@@ -16,8 +16,10 @@ To check current branch:
 git branch
 
 To merge the changes to the main branch:
+(first you've to on the branch where you want those changes)
 git merge <<the_branch_you_want_to_merge>>
 
 
 random asdfghjklxvbnm,wertyuio
+random sdfasdfasdfasdfasdfdsafasdfasd
 
