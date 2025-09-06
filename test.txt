@@ -15,3 +15,7 @@ git checkout <<NameOfOther_branch>>
 To check current branch:
 git branch
 
+To merge the changes to the main branch:
+git merge <<the_branch_you_want_to_merge>>
+
+
