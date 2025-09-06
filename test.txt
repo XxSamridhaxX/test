@@ -3,3 +3,6 @@ abcdefghijklmnopqrstuvwxyz
 
 To link remote repo to repo in GitHub
 git remote add origin << Repo Name >>
+
+To create a new branch:
+git checkout <<new_branch_name>>
