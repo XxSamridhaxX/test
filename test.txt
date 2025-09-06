@@ -17,7 +17,11 @@ git branch
 
 To merge the changes to the main branch:
 (first you've to on the branch where you want those changes)
+
 git merge <<the_branch_you_want_to_merge>>
+
+also a point to remember:
+merge happens locally so you need to stage the changes 
 
 
 random asdfghjklxvbnm,wertyuio
